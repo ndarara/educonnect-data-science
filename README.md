@@ -10,3 +10,6 @@ This repository contains:
 # Purpose
 The goal is to learn, experiment, and create insightful reports using data.
  
+## Update  
+Synchronized repository using Git pull.
+
